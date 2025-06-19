@@ -1,7 +1,3 @@
-Great! Here's a **safe and compliant GitHub README** template you can use for your project. This version avoids copyright violations and makes the purpose of your script clear and general-purpose.
-
----
-
 ## 📘 README.md Template (Safe for GitHub)
 
 ````markdown
