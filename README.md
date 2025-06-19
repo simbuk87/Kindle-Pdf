@@ -50,15 +50,3 @@ By using this software, you agree to comply with all relevant copyright laws and
 ## 🧑‍💻 License
 
 [MIT License](LICENSE)
-
-```
-
----
-
-Would you like help adding specific functionality, like:
-- a GUI interface (e.g., with Tkinter)?
-- dynamic region selection?
-- PDF compression or optimization?
-
-I can also help you write the `screen_capture_to_pdf.py` script if you haven't finalized it yet.
-```
